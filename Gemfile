@@ -5,8 +5,6 @@ gemspec
 # apps can also use will_paginate so there's no dependency in gemspec
 gem 'kaminari'
 
-gem 'rails', '~> 5.0.0'
-
 group :development do
   gem 'awesome_print'
   gem 'better_errors'
